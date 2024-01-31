@@ -1,37 +1,10 @@
 body{
-    background-color: rgb(0, 0, 0);
-    color: blue;
+    background-color:rgb(0, 0, 0);
+    color:rgb(255, 0, 0);
 }
-.part2
-{
-background-color: black;
-color: aquamarine;
+table,tr,td{
+    border: 2px solid blue;
 }
-.mywar
-{
-    background-color: brown;
-    color: aqua;
-    position: middle;
-}
-.kas{
- color: black;
-    background-color: aliceblue;
-}
-.naruto
-{
-    background-color: blueviolet;
-    color: aqua;
-}
-.onepiece
-{
-    background:url("depressed-bird-under-rain-4hmtfytrs3ffqa0t.jpg");
-}
-.table
-{
-    background-color: aqua;
-    color: goldenrod;
-}
-tr
-{
-    color: rgb(255, 127, 127);
+form,label,input{
+    border: 1px solid rgb(71, 5, 68);
 }
